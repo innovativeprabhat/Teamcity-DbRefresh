@@ -1,2 +1,2 @@
-Insert into Employees values('Prabhat','Lucknow')
+Insert into Employee values('Prabhat','Lucknow')
 Go
